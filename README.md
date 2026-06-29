@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SchrodingersCAT2102 aka Piyush
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/piyush-priyaranjan-130a46325
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+Electronics & Telecommunication undergraduate focused on VLSI Design, RTL Development, and Computer Architecture. Building digital systems using Verilog/SystemVerilog, FPGA prototyping, and RISC-V based designs. Interested in digital IC design, verification, and hardware acceleration.
+
 
 <!---
 SchrodingersCAT2102/SchrodingersCAT2102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
