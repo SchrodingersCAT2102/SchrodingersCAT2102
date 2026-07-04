@@ -75,7 +75,7 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/SchrodingersCAT2102
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/piyush-priyaranjan-130a46325/
 
 ---
 
