@@ -1,82 +1,126 @@
 # Hi there 👋, I'm Piyush Priyaranjan
 
-### Electronics & Telecommunication Engineering Student
-### Aspiring VLSI Design Engineer
+## Electronics & Telecommunication Engineering Student
+### Aspiring RTL & VLSI Design Engineer
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Electronics and Telecommunication Engineering
-- 💻 Interested in **VLSI Design, RTL Design, FPGA and RISC-V**
-- 🌱 Currently learning:
-  - Verilog HDL
-  - Digital Design
-  - Computer Architecture
-  - FPGA Design
-- 🎯 Goal: Become an RTL/VLSI Design Engineer
+🎓 B.Tech in Electronics & Telecommunication Engineering
+
+💻 Passionate about **RTL Design, VLSI Design, FPGA Development, Computer Architecture, and RISC-V**
+
+🌱 **Currently Learning**
+- Verilog HDL
+- Digital Design
+- Computer Architecture
+- FPGA Design
+- Functional Verification
+
+🎯 **Career Goal**
+
+To become an RTL/VLSI Design Engineer specializing in high-performance digital hardware and ASIC/FPGA design.
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Skills
 
 ### Hardware Design
 - Verilog HDL
+- RTL Design
 - Digital Electronics
 - FPGA Design
-- RTL Design
 - Computer Architecture
 - RISC-V
 
 ### Tools
-- Xilinx Vivado
+- AMD Xilinx Vivado
 - LTspice
 - Git & GitHub
 - Linux
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🔹 UART Transmitter
-- Parameterized UART transmitter in Verilog
-- Configurable baud rate and parity support
+## 🔹 Parameterized Synchronous FIFO
 
-🔗 https://github.com/SchrodingersCAT2102/uart-tx-verilog
+A fully parameterized synchronous FIFO implemented in **Verilog HDL** featuring circular buffer architecture and comprehensive functional verification.
 
----
+### Features
+- Parameterized FIFO Depth & Data Width
+- Occupancy Counter Based Full/Empty Detection
+- Circular Buffer Architecture
+- Overflow Protection
+- Underflow Protection
+- Simultaneous Read & Write Support
+- Comprehensive Verification Testbench
 
-### 🔹 UART Receiver
-- Parameterized UART receiver
-- Parity error detection
-- Frame error detection
+🔗 Repository
 
-🔗 https://github.com/SchrodingersCAT2102/uart-rx-verilog
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SchrodingersCAT2102&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SchrodingersCAT2102&layout=compact)
+https://github.com/SchrodingersCAT2102/fifo-verilog
 
 ---
 
-## 📚 Currently Working On
+## 🔹 UART Transmitter
 
-- FIFO Design in Verilog
+Parameterized UART Transmitter implemented in Verilog HDL.
+
+### Features
+- Configurable Baud Rate
+- Optional Parity Support
+- Parameterized Design
+- FSM Based Architecture
+
+🔗 Repository
+
+https://github.com/SchrodingersCAT2102/uart-tx-verilog
+
+---
+
+## 🔹 UART Receiver
+
+Parameterized UART Receiver implemented in Verilog HDL.
+
+### Features
+- Parity Error Detection
+- Frame Error Detection
+- Parameterized Design
+- FSM Based Architecture
+
+🔗 Repository
+
+https://github.com/SchrodingersCAT2102/uart-rx-verilog
+
+---
+
+# 📈 GitHub Stats
+
+<!-- GitHub Stats Card -->
+
+<!-- Top Languages Card -->
+
+---
+
+# 📚 Currently Working On
+
 - SPI Master Controller
-- RISC-V Based Projects
-- FPGA Development
+- I²C Master Controller
+- APB Protocol
+- Asynchronous FIFO
+- RISC-V Based RTL Projects
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-- GitHub: https://github.com/SchrodingersCAT2102
-- LinkedIn: https://www.linkedin.com/in/piyush-priyaranjan-130a46325/
+- **GitHub**
+  - https://github.com/SchrodingersCAT2102
+
+- **LinkedIn**
+  - https://www.linkedin.com/in/piyush-priyaranjan-130a46325/
 
 ---
 
-> "Building digital systems one module at a time." 🚀
+> **"Building digital systems one module at a time." 🚀**
