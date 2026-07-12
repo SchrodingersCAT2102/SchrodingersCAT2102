@@ -9,11 +9,12 @@
 
 🎓 B.Tech in Electronics & Telecommunication Engineering
 
-💻 Passionate about RTL Design, VLSI Design, FPGA Development, Computer Architecture, Functional Verification, and RISC-V.
+💻 Passionate about RTL Design, VLSI Design, FPGA Development, Computer Architecture, Functional Verification, and RISC-V Processor Design.
 
 🌱 **Currently Learning**
 
 - Verilog HDL
+- SystemVerilog
 - Computer Architecture
 - Digital Design
 - FPGA Design
@@ -22,13 +23,13 @@
 
 🎯 **Career Goal**
 
-To become an RTL/VLSI Design Engineer specializing in digital hardware design, ASIC/FPGA development, and processor architecture.
+To become an RTL/VLSI Design Engineer specializing in RTL Design, ASIC/FPGA Development, Computer Architecture, and Functional Verification.
 
 ---
 
 # 🛠️ Skills
 
-### RTL & Digital Design
+### RTL Design
 - Verilog HDL
 - RTL Design
 - Digital Electronics
@@ -41,6 +42,7 @@ To become an RTL/VLSI Design Engineer specializing in digital hardware design, A
 - Directed Verification
 - Randomized Verification
 - Functional Verification
+- Golden Reference Models
 
 ### Tools
 - AMD Xilinx Vivado
@@ -52,28 +54,35 @@ To become an RTL/VLSI Design Engineer specializing in digital hardware design, A
 
 # 📂 Featured Projects
 
-## 🔹 RISC-V CPU (In Progress)
+## 🔹 32-bit RISC-V CPU (RV32I) *(In Progress)*
 
-A modular 32-bit RISC-V processor implemented in Verilog HDL following an incremental design and verification methodology.
+A modular implementation of a 32-bit RISC-V processor in Verilog HDL with an emphasis on reusable RTL, self-checking verification, and comprehensive documentation.
 
 ### Current Progress
 
 - ✅ Register File
-- 🚧 ALU
-- ⏳ Control Unit
+- ✅ Arithmetic Logic Unit (ALU)
 - ⏳ Immediate Generator
-- ⏳ Branch Unit
+- ⏳ Program Counter
+- ⏳ ALU Control
+- ⏳ Main Control Unit
+- ⏳ Branch Comparator
+- ⏳ Instruction Memory
+- ⏳ Data Memory
 - ⏳ Hazard Detection Unit
 - ⏳ Forwarding Unit
+- ⏳ Pipeline Registers
 - ⏳ Top-Level CPU Integration
 
 ### Highlights
 
 - Parameterized RTL Modules
 - Self-Checking Verification Environment
-- Golden Reference Model
-- Directed & Randomized Testing
+- Golden Reference Models
+- Directed & Randomized Verification
+- Functional Waveform Verification
 - Comprehensive Documentation
+- Modular Project Structure
 
 🔗 Repository
 
@@ -83,18 +92,18 @@ https://github.com/SchrodingersCAT2102/riscv-cpu-verilog
 
 ## 🔹 Parameterized Synchronous FIFO
 
-A fully parameterized synchronous FIFO implemented in Verilog HDL with comprehensive verification.
+A parameterized synchronous FIFO implemented in Verilog HDL with a comprehensive self-checking verification environment.
 
 ### Features
 
 - Parameterized Depth & Width
 - Circular Buffer Architecture
 - Occupancy Counter
-- Full/Empty Detection
+- Full & Empty Detection
 - Overflow Protection
 - Underflow Protection
 - Simultaneous Read & Write
-- Self-Checking Verification Testbench
+- Self-Checking Verification
 
 🔗 Repository
 
@@ -112,6 +121,7 @@ Parameterized UART Transmitter implemented in Verilog HDL.
 - Optional Parity
 - FSM-Based Design
 - Parameterized Architecture
+- Functional Verification
 
 🔗 Repository
 
@@ -129,6 +139,7 @@ Parameterized UART Receiver implemented in Verilog HDL.
 - Frame Error Detection
 - FSM-Based Design
 - Parameterized Architecture
+- Functional Verification
 
 🔗 Repository
 
@@ -138,7 +149,8 @@ https://github.com/SchrodingersCAT2102/uart-rx-verilog
 
 # 📚 Currently Working On
 
-- SPI Master & Slave Controller
+- Immediate Generator (RV32I)
+- SPI Master Controller
 - I²C Master Controller
 - APB Protocol
 - Asynchronous FIFO
@@ -150,20 +162,22 @@ https://github.com/SchrodingersCAT2102/uart-rx-verilog
 
 # 📈 GitHub Stats
 
-*(GitHub Readme Stats Cards)*
+<!-- GitHub Readme Stats -->
+<!-- Top Languages -->
+<!-- Contribution Graph -->
 
 ---
 
 # 📫 Connect With Me
 
-**GitHub**
+### GitHub
 
 https://github.com/SchrodingersCAT2102
 
-**LinkedIn**
+### LinkedIn
 
 https://www.linkedin.com/in/piyush-priyaranjan-130a46325/
 
 ---
 
-> **"Building digital systems one module at a time." 🚀**
+> *"Building digital systems one module at a time."* 🚀
